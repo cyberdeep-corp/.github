@@ -1,0 +1,89 @@
+name: Technical Support
+description: Request assistance with installation, configuration, or usage.
+title: "[SUPPORT]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Need assistance with one of our projects?
+
+        Provide enough technical information for maintainers to understand your problem.
+
+        **Do not share credentials, private configuration files, or production secrets.**
+
+  - type: dropdown
+    id: support_type
+    attributes:
+      label: Support Category
+      options:
+        - Installation
+        - Configuration
+        - Deployment
+        - Runtime Error
+        - API Integration
+        - Database
+        - Dependencies
+        - Usage / Documentation
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Project Version
+      placeholder: "v1.0.0"
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: "Windows 11, Python 3.12, Flask..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What Do You Need Help With?
+      description: Explain your issue or question.
+    validations:
+      required: true
+
+  - type: textarea
+    id: attempted
+    attributes:
+      label: Troubleshooting Already Attempted
+      description: What have you tried so far?
+    validations:
+      required: false
+
+  - type: textarea
+    id: errors
+    attributes:
+      label: Error Messages
+      description: Include relevant error messages or logs.
+      render: shell
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Provide any other information that may help.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have reviewed the project's documentation.
+          required: true
+        - label: I have removed sensitive information from my submission.
+          required: true
