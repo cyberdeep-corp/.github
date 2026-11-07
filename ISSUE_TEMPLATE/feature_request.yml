@@ -1,0 +1,72 @@
+name: Feature Request
+description: Suggest a new feature or improvement.
+title: "[FEATURE]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We appreciate suggestions that improve our projects.
+
+        Please explain the problem and how your proposed feature would help.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: What problem or limitation are you experiencing?
+      placeholder: Describe the problem.
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Explain the functionality you would like to see.
+      placeholder: Describe your proposed feature.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you considered any alternative approaches?
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Feature Category
+      options:
+        - User Interface / UX
+        - Performance
+        - Security
+        - API / Backend
+        - Database
+        - Developer Experience
+        - Integration
+        - Documentation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References and Examples
+      description: Include relevant links, mockups, or examples.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have checked that this feature has not already been requested.
+          required: true
+        - label: I understand that feature requests are subject to review.
+          required: true
