@@ -134,11 +134,9 @@ Please review the contribution guidelines and licence of each repository before 
 
 | Platform | Link |
 |---|---|
-| GitHub | [CyberDeep Corporate](https://github.com/cyberdeep-corp) |
+| Website | [CyberDeep Corporate](https://cyberdeep.qzz.io) |
 | Documentation | [Union Foundations](https://union.cyberdeep.qzz.io) |
 | Development Studio | [SamWorks Studios](https://samworks.cyberdeep.qzz.io) |
-| Project | [TempChats](https://tempchats.vercel.app) |
-| Project | [LoveCards](https://lovecards--cc.vercel.app) |
 
 For official enquiries and collaborations, contact us through our verified organisational channels.
 
