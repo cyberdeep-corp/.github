@@ -135,7 +135,7 @@ Please review the contribution guidelines and licence of each repository before 
 | Platform | Link |
 |---|---|
 | Website | [CyberDeep Corporate](https://cyberdeep.qzz.io) |
-| Documentation | [Union Foundations](https://union.cyberdeep.qzz.io) |
+| Documentation | [Union Foundation](https://union.cyberdeep.qzz.io) |
 | Development Studio | [SamWorks Studios](https://samworks.cyberdeep.qzz.io) |
 
 For official enquiries and collaborations, contact us through our verified organisational channels.
