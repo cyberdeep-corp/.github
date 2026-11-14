@@ -50,7 +50,7 @@ Focus areas:
 
 ### Documentation & Foundations
 
-**Union Foundations**
+**Union Foundation**
 
 Our documentation-oriented initiative, providing a foundation for organisational knowledge, technical documentation, and structured resources.
 
