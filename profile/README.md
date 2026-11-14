@@ -54,7 +54,7 @@ Focus areas:
 
 Our documentation-oriented initiative, providing a foundation for organisational knowledge, technical documentation, and structured resources.
 
-[Visit Union Foundations](https://union.cyberdeep.qzz.io)
+[Visit Union Foundation](https://union.cyberdeep.qzz.io)
 
 ## Selected Projects
 
