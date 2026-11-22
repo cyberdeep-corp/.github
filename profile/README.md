@@ -143,16 +143,46 @@ For official enquiries and collaborations, contact us through our verified organ
 
 ## Connect With Us
 
+### CyberDeep Corporate Account
+
 | Platform | Link |
 |---|---|
-| CyberDeep Corporate Accounts |
 | CyberDeep Instagram Account | [@cyberdeep.corp](https://instagram.com/cyberdeep.corp) |
 | CyberDeep Peerlist.io Account | [@cyberdeep_corps](https://peerlist.io/company/cyberdeep_corps) |
 | CyberDeep Crunchbase Profile | [@cyberdeep-corporate](https://www.crunchbase.com/organization/cyberdeep-corporate) |
+
+### CyberDeep Corporate Emails
+
+| Service | Email |
+|---|---|
+| Information | [info@cyberdeep.qzz.io](mailto:info@cyberdeep.qzz.io) |
+| Contact | [contact@cyberdeep.qzz.io](mailto:contact@cyberdeep.qzz.io) |
+| Security | [security@cyberdeep.qzz.io](mailto:security@cyberdeep.qzz.io) |
+| Privacy | [privacy@cyberdeep.qzz.io](mailto:privacy@cyberdeep.qzz.io) |
+| Abuse | [abuse@cyberdeep.qzz.io](mailto:abuse@cyberdeep.qzz.io) |
+| Developer | [developer@cyberdeep.qzz.io](mailto:developer@cyberdeep.qzz.io) |
+| Postmaster | [postmaster@cyberdeep.qzz.io](mailto:postmaster@cyberdeep.qzz.io) |
+| Hostmaster | [hostmaster@cyberdeep.qzz.io](mailto:hostmaster@cyberdeep.qzz.io) |
+
+### SamWorks Studios Accounts
+
+| Platform | Link |
 | ---|--- |
-| SamWorks Studios Accounts |
 | SamWorks Crunchbase Profile | [@samworks-studios](https://www.crunchbase.com/organization/samworks-studios) |
 | SamWorks Instagram Account | [@samworks.studios](https://instagram.com/samworks.studios) |
+
+### CyberDeep Corporate Emails
+
+| Service | Email |
+|---|---|
+| Information | [info@samworks.cyberdeep.qzz.io](mailto:info@samworks.cyberdeep.qzz.io) |
+| Contact | [contact@samworks.cyberdeep.qzz.io](mailto:contact@samworks.cyberdeep.qzz.io) |
+| Security | [security@samworks.cyberdeep.qzz.io](mailto:security@samworks.cyberdeep.qzz.io) |
+| Privacy | [privacy@samworks.cyberdeep.qzz.io](mailto:privacy@samworks.cyberdeep.qzz.io) |
+| Abuse | [abuse@samworks.cyberdeep.qzz.io](mailto:abuse@samworks.cyberdeep.qzz.io) |
+| Developer | [developer@samworks.cyberdeep.qzz.io](mailto:developer@samworks.cyberdeep.qzz.io) |
+| Postmaster | [postmaster@samworks.cyberdeep.qzz.io](mailto:postmaster@samworks.cyberdeep.qzz.io) |
+| Hostmaster | [hostmaster@samworks.cyberdeep.qzz.io](mailto:hostmaster@samworks.cyberdeep.qzz.io) |
 
 ---
 
