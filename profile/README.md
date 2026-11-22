@@ -139,8 +139,6 @@ Please review the contribution guidelines and licence of each repository before 
 | Studio Website| [SamWorks Studios](https://samworks.cyberdeep.qzz.io) |
 | GitHub Projects | [SamWorks GitHub Projects](https://github.cyberdeep.qzz.io) |
 
-For official enquiries and collaborations, contact us through our verified organisational channels.
-
 ## Connect With Us
 
 ### CyberDeep Corporate Account
@@ -183,6 +181,8 @@ For official enquiries and collaborations, contact us through our verified organ
 | Developer | [developer@samworks.cyberdeep.qzz.io](mailto:developer@samworks.cyberdeep.qzz.io) |
 | Postmaster | [postmaster@samworks.cyberdeep.qzz.io](mailto:postmaster@samworks.cyberdeep.qzz.io) |
 | Hostmaster | [hostmaster@samworks.cyberdeep.qzz.io](mailto:hostmaster@samworks.cyberdeep.qzz.io) |
+
+For official enquiries and collaborations, contact us through our verified organisational channels.
 
 ---
 
