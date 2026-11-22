@@ -130,16 +130,29 @@ You can contribute by:
 
 Please review the contribution guidelines and licence of each repository before contributing.
 
+## Our Important Websites
+
+| Platform | Link |
+|---|---|
+| Main Website | [CyberDeep Corporate](https://cyberdeep.qzz.io) |
+| Union Website | [Union Foundation](https://union.cyberdeep.qzz.io) |
+| Studio Website| [SamWorks Studios](https://samworks.cyberdeep.qzz.io) |
+| GitHub Projects | [SamWorks GitHub Projects](https://github.cyberdeep.qzz.io) |
+
+For official enquiries and collaborations, contact us through our verified organisational channels.
+
 ## Connect With Us
 
 | Platform | Link |
 |---|---|
-| Website | [CyberDeep Corporate](https://cyberdeep.qzz.io) |
-| Documentation | [Union Foundation](https://union.cyberdeep.qzz.io) |
-| Development Studio | [SamWorks Studios](https://samworks.cyberdeep.qzz.io) |
-| GitHub Projects | [SamWorks GitHub Projects](https://github.cyberdeep.qzz.io) |
-
-For official enquiries and collaborations, contact us through our verified organisational channels.
+| CyberDeep Corporate Accounts |
+| CyberDeep Instagram Account | [@cyberdeep.corp](https://instagram.com/cyberdeep.corp) |
+| CyberDeep Peerlist.io Account | [@cyberdeep_corps](https://peerlist.io/company/cyberdeep_corps) |
+| CyberDeep Crunchbase Profile | [@cyberdeep-corporate](https://www.crunchbase.com/organization/cyberdeep-corporate) |
+| ---|--- |
+| SamWorks Studios Accounts |
+| SamWorks Crunchbase Profile | [@samworks-studios](https://www.crunchbase.com/organization/samworks-studios) |
+| SamWorks Instagram Account | [@samworks.studios](https://instagram.com/samworks.studios) |
 
 ---
 
